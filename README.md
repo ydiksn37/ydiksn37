@@ -1,16 +1,23 @@
 # Hi there 👋
-I'm Yudai Kusano 👋
+
+Hello there! I'm Yudai Kusano, a frontend engineer and Technical Director.
+
+I work as a frontend engineer while taking on the role of Technical Director, and I'm currently studying backend development and computer science at 42 Tokyo.
 
 ## About Me
 
-Frontend / Backend(learning) / Web Engineer
-
-- 💻 Go / TypeScript
-- 🐳 Docker
-- 🌐 Web API Development
-- 🏗️ Clean Architecture
+Frontend / Backend(learning) / Frontend Engineer / Technical Director
 
 ## Projects
+
+[Go API](https://github.com/ydiksn37/go-api-arch-clean-template)
+→ Go・REST API・OpenAPI・Clean Architecture
+
+[Webserv](https://github.com/ydiksn37/webserv)
+→ Reimplementation of the Web Server
+
+[ft_transcendence](https://github.com/ydiksn37/ft_transcendence/)
+→ Team Development・WebSocket・Docker etc...
 
 ## 🛠️ Languages & Skills
 
@@ -20,9 +27,8 @@ Frontend / Backend(learning) / Web Engineer
 
 ### Backend & Database
 
-[![Backend](https://skillicons.dev/icons?i=go,mysql,postgres)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=go,mysql,prisma,postgres,sqlite,nodejs,nestjs)](https://skillicons.dev)
 
 ### Tools & Infrastructure
 
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,linux)](https://skillicons.dev)
-...
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,nginx)](https://skillicons.dev)
