@@ -26,6 +26,8 @@ Frontend Engineer / Technical Director / Backend(learning) /
 
 → Team Development・WebSocket・Docker etc...
 
+Currently private. Scheduled to be completed soon. It will be made public immediately afterward.
+
 ## 🛠️ Languages & Skills
 
 ### Languages
