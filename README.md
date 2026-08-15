@@ -18,7 +18,7 @@ Technical Director / Frontend Engineer / Backend(learning)
 
 → Go・REST API・OpenAPI・Clean Architecture
 
-[Webserv](https://github.com/ydiksn37/webserv)
+[webserv](https://github.com/ydiksn37/webserv)
 
 → Reimplementation of the Web Server
 
