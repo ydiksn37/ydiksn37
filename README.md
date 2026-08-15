@@ -29,7 +29,7 @@ Technical Director / Frontend Engineer / Backend(learning)
 > [!NOTE]
 > ft_transcendence is currently private. Scheduled to be completed soon. It will be made public immediately afterward.
 
-## 🛠️ Languages & Skills
+## Stack
 
 ### Languages
 
