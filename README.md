@@ -6,7 +6,7 @@ I work as a frontend engineer while taking on the role of Technical Director, an
 
 ## About Me
 
-Frontend Engineer / Technical Director / Backend(learning) / 
+Frontend Engineer / Technical Director / Backend(learning)
 
 ## Projects
 
