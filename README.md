@@ -10,6 +10,10 @@ Frontend Engineer / Technical Director / Backend(learning) /
 
 ## Projects
 
+[minishell](https://github.com/ydiksn37/minishell)
+
+→ Reimplementation of Sehll
+
 [Go API](https://github.com/ydiksn37/go-api-arch-clean-template)
 
 → Go・REST API・OpenAPI・Clean Architecture
