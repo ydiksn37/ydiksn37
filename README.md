@@ -6,7 +6,7 @@ I work as a frontend engineer while taking on the role of Technical Director, an
 
 ## About Me
 
-Frontend Engineer / Technical Director / Backend(learning)
+Technical Director / Frontend Engineer / Backend(learning)
 
 ## Projects
 
@@ -27,7 +27,7 @@ Frontend Engineer / Technical Director / Backend(learning)
 → Team Development・WebSocket・Docker etc...
 
 > [!NOTE]
-> Currently private. Scheduled to be completed soon. It will be made public immediately afterward.
+> ft_transcendence is currently private. Scheduled to be completed soon. It will be made public immediately afterward.
 
 ## 🛠️ Languages & Skills
 
