@@ -27,8 +27,8 @@ Frontend / Backend(learning) / Frontend Engineer / Technical Director
 
 ### Backend & Database
 
-[![Backend](https://skillicons.dev/icons?i=go,mysql,prisma,postgres,sqlite,nodejs,nestjs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=go,nodejs,nestjs,mysql,prisma,postgres,sqlite)](https://skillicons.dev)
 
 ### Tools & Infrastructure
 
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,nginx)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,nginx,linux,git,github)](https://skillicons.dev)
