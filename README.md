@@ -6,17 +6,20 @@ I work as a frontend engineer while taking on the role of Technical Director, an
 
 ## About Me
 
-Frontend / Backend(learning) / Frontend Engineer / Technical Director
+Frontend Engineer / Technical Director / Backend(learning) / 
 
 ## Projects
 
 [Go API](https://github.com/ydiksn37/go-api-arch-clean-template)
+
 → Go・REST API・OpenAPI・Clean Architecture
 
 [Webserv](https://github.com/ydiksn37/webserv)
+
 → Reimplementation of the Web Server
 
 [ft_transcendence](https://github.com/ydiksn37/ft_transcendence/)
+
 → Team Development・WebSocket・Docker etc...
 
 ## 🛠️ Languages & Skills
