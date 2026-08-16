@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello there! I'm Yudai Kusano, a frontend engineer and Technical Director.
+Hi there! I'm Yudai Kusano, a frontend engineer and Technical Director.
 
 I work as a frontend engineer while taking on the role of Technical Director, and I'm currently studying backend development and computer science at 42 Tokyo.
 
