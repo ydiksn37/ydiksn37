@@ -1,4 +1,4 @@
-# Hi there!
+## Hi there 👋
 
 I'm Yudai Kusano, a frontend engineer and Technical Director.
 
