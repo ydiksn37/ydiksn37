@@ -12,7 +12,7 @@ Technical Director / Frontend Engineer / Backend(learning)
 
 [minishell](https://github.com/ydiksn37/minishell)
 
-→ Reimplementation of Sehll
+→ Reimplementation of Shell
 
 [Go API](https://github.com/ydiksn37/go-api-arch-clean-template)
 
