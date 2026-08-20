@@ -33,7 +33,7 @@ Technical Director / Frontend Engineer / Backend(learning)
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=html,css,scss,js,ts,c,cpp,go)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,go,html,css,scss,js,ts)](https://skillicons.dev)
 
 ### Backend & Database
 
