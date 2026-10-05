@@ -26,9 +26,6 @@ Technical Director / Frontend Engineer / Backend(learning)
 
 → Fullstack Development・Frontend・Backend・Infrastructure・WebSocket・Docker・Database Design etc...
 
-> [!NOTE]
-> ft_transcendence is currently private. Scheduled to be completed soon. It will be made public immediately afterward.
-
 ## Stack
 
 ### Languages
