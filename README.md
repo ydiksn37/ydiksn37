@@ -14,7 +14,7 @@ Technical Director / Frontend Engineer / Backend(learning)
 
 → Reimplementation of Shell
 
-[Go API](https://github.com/ydiksn37/go-api-arch-clean-template)
+[Go API](https://github.com/ydiksn37/go-api-sports-ticket-reservation-system)
 
 → Go・REST API・OpenAPI・Clean Architecture
 
