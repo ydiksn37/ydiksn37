@@ -2,7 +2,7 @@
 
 I'm Yudai Kusano, a frontend engineer and Technical Director.
 
-I work as a frontend engineer while taking on the role of Technical Director, and I'm currently studying backend development and computer science at 42 Tokyo.
+I work as a frontend engineer while taking on the role of Technical Director, and I'm currently studying backend development and computer science at 42Tokyo.
 
 ## About Me
 
@@ -21,10 +21,6 @@ Technical Director / Frontend Engineer / Backend(learning)
 [Go API](https://github.com/ydiksn37/go-api-sports-ticket-reservation-system)
 
 → Go・REST API・OpenAPI・Clean Architecture
-
-[ft_transcendence](https://github.com/ydiksn37/ft_transcendence/)
-
-→ Fullstack Development・Frontend・Backend・Infrastructure・WebSocket・Docker・Database Design etc...
 
 ## Stack
 
