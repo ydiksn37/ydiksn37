@@ -14,13 +14,13 @@ Technical Director / Frontend Engineer / Backend(learning)
 
 → Reimplementation of Shell
 
-[Go API](https://github.com/ydiksn37/go-api-sports-ticket-reservation-system)
-
-→ Go・REST API・OpenAPI・Clean Architecture
-
 [webserv](https://github.com/ydiksn37/webserv)
 
 → Reimplementation of the Web Server
+
+[Go API](https://github.com/ydiksn37/go-api-sports-ticket-reservation-system)
+
+→ Go・REST API・OpenAPI・Clean Architecture
 
 [ft_transcendence](https://github.com/ydiksn37/ft_transcendence/)
 
